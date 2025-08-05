@@ -1,0 +1,409 @@
+parameter_variant,question,image_path,answer1,time_taken1,answer2,time_taken2,answer3,time_taken3,parameters_used
+Variant_1,"When looking onto the output shaft, what is the standard direction of rotation?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_33.png,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counterclockwise",75.3446683883667,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counterclockwise",7.844157457351685,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counterclockwise",7.806621551513672,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is an example case to contact SEW-EURODRIVE?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_36.png,"Field: Contact SEW-EURODRIVE
+Requirement: Case of following mounting position changes",77.85987758636475,"Field: Contact SEW-EURODRIVE
+Requirement: Case of following mounting position changes",8.124358415603638,"Field: Contact SEW-EURODRIVE
+Requirement: Case of following mounting position changes",8.196080684661865,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the description for right-angle gear unit with the designation 'WHF..'?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_29.png,"Field: ""3.11.5""
+Description: ""B5 flange-mounted design and hollow shaft with keyway""",80.48577785491943,"Field: ""3.11.5""
+Description: ""B5 flange-mounted design and hollow shaft with keyway""",10.558451175689697,"Field: ""3.11.5""
+Description: ""B5 flange-mounted design and hollow shaft with keyway""",10.471455812454224,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the View of output at end B of a 'W' Series gear unit at stage 3?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_34.png,"Field:   View of output at end B
+Requirement:  CW",75.9146375656128,"Field:   View of output at end B
+Requirement: AB",5.8381431102752686,"Field:   View of output at end B
+Requirement: AB",5.793994426727295,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the Flange diameter of the gear unit SF67p?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_37.png,"Field: Flange diameter
+Requirement: The field that contains the information about the flange diameter of the gear unit SF67p is not clearly visible.",82.07589840888977,"Field: Flange diameter
+Requirement: The field for the flange diameter is not clearly visible in the image.",9.819376945495605,"Field: Flange diameter
+Requirement: The field for the flange diameter is not clearly visible in the image.",9.71289324760437,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,"What is the tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_39.png,"To find the tightening torque for a gear unit SF87p with a flange diameter of 350 mm and using screw/nut M16, we can refer to the provided table. The table lists various flange diameters and corresponding tightening torques for specific screw/nut combinations.
+
+1.  **Identify the Flange Diameter and Screw/Nut Type**: In this case, the flange diameter is 350 mm, and the screw/nut type is M16.
+2.  **Locate the Combination in the Table**: By matching the flange diameter and screw/nut type, we find that the combination of 350 mm flange diameter and M16 screw/nut is listed in the table.
+3.  **Determine the Corresponding Tightening Torque**: According to the table, for a flange diameter of 350 mm and using an M16 screw/nut, the required tightening torque is **235 Nm**.
+
+Therefore, the tightening torque for the gear unit SF87p with a flange diameter of 350 mm and using an M16 screw/nut is **235 Nm**.",160.42271828651428,"To find the tightening torque for a gear unit SF87p with a flange diameter of 350 mm and using screw/nut M16, we can refer to the provided table. The table lists various flange diameters and corresponding tightening torques for specific gear units. 
+
+For a flange diameter of 350 mm and using screw/nut M16, we look down the column corresponding to this flange diameter. We then move across the table to the cell that corresponds to the gear unit SF87p, as specified in the question.
+
+Upon locating the cell for SF87p under the 350 mm flange diameter, we find the value associated with screw/nut M16. This value represents the tightening torque in Nm for the gear unit SF87p with the given specifications.
+
+The answer to the question is: **235**",67.538893699646,"To find the tightening torque for a gear unit SF87p with a flange diameter of 350 mm and using screw/nut M16, we can refer to the provided table. The table lists various flange diameters and corresponding tightening torques for specific gear units. 
+
+For a flange diameter of 350 mm and using screw/nut M16, we look down the column corresponding to this flange diameter. We then move across the table to the cell that corresponds to the gear unit SF87p, as specified in the question.
+
+Upon locating the cell for SF87p under the 350 mm flange diameter, we find the value associated with screw/nut M16. This value represents the tightening torque in Nm for the gear unit SF87p with the given specifications.
+
+The answer to the question is: **235**",67.48014283180237,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What are the steps to mount a shaft-mounted gear unit with splined hollow shaft?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_55.png,"The image appears to be a technical document with text that is too small to be legible. However, based on the content, it seems to be discussing the mechanical assembly of gear units.
+
+Unfortunately, I'm unable to extract specific steps from this document due to the small font size. If you need detailed instructions, I recommend checking the document again with a magnifying tool or looking for a higher-resolution version.",102.08993864059448,"The image appears to be a technical document that outlines the steps for mounting a shaft-mounted gear unit with a splined hollow shaft.
+
+**Step 1: Apply NOCO-Paste**
+
+The first step is to apply NOCO-Paste to the splined hollow shaft. The paste is spread carefully along the length of the shaft.
+
+**Step 2: Install the Shaft and Secure it Axially**
+
+The next step is to install the shaft and secure it axially using a mounting device. This ensures that the shaft is properly aligned and secured in place.
+
+**Step 3: Close the Plug**
+
+After securing the shaft, the plug is closed. This completes the mounting process for the shaft-mounted gear unit with a splined hollow shaft.
+
+Therefore, the steps to mount a shaft-mounted gear unit with a splined hollow shaft are:
+
+1. Apply NOCO-Paste
+2. Install the Shaft and Secure it Axially
+3. Close the Plug",76.50214433670044,"The image appears to be a technical document that outlines the steps for mounting a shaft-mounted gear unit with a splined hollow shaft.
+
+**Step 1: Apply NOCO-Paste**
+
+The first step is to apply NOCO-Paste to the splined hollow shaft. The paste is spread carefully along the length of the shaft.
+
+**Step 2: Install the Shaft and Secure it Axially**
+
+The next step is to install the shaft and secure it axially using a mounting device. This ensures that the shaft is properly aligned and secured in place.
+
+**Step 3: Close the Plug**
+
+After securing the shaft, the plug is closed. This completes the mounting process for the shaft-mounted gear unit with a splined hollow shaft.
+
+Therefore, the steps to mount a shaft-mounted gear unit with a splined hollow shaft are:
+
+1. Apply NOCO-Paste
+2. Install the Shaft and Secure it Axially
+3. Close the Plug",76.62653422355652,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What are the steps to activating the breather valve?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_45.png,"To activate the breather valve, follow these steps:
+
+1. Remove the transport protection.
+2. Activate the breather valve.",80.79995942115784,"To activate the breather valve, follow these steps:
+
+1. Remove the transport protection.
+2. Activate the breather valve.",10.959071397781372,"To activate the breather valve, follow these steps:
+
+1. Remove the transport protection.
+2. Activate the breather valve.",10.879404306411743,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What are the steps to mounting the cover?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_82.png,"To mount the cover, follow these steps:
+
+**Step 1: Remove plastic plugs**
+Remove the plastic plugs from the gear unit housing.
+
+**Step 2: Mount the cover**
+Mount the safety cover onto the gear unit housing using the provided screws and threaded bushings.
+
+**Step 3: Secure the cover**
+Ensure the cover is securely fastened with the supplied screws and bushings.
+
+These steps provide a clear guide for mounting the cover, following the specific requirements outlined in the image.",107.27605032920837,"To mount the cover, follow these steps:
+
+**Step 1: Remove plastic plugs**
+Remove the plastic plugs from the gear unit housing.
+
+**Step 2: Mount the cover**
+Mount the safety cover onto the gear unit housing using the provided screws and threaded bushings.
+
+**Step 3: Secure the cover**
+Ensure the cover is securely fastened with the supplied screws and bushings.
+
+These steps provide a clear guide for mounting the cover, following the specific requirements outlined in the provided text.",39.91316843032837,"To mount the cover, follow these steps:
+
+**Step 1: Remove plastic plugs**
+Remove the plastic plugs from the gear unit housing.
+
+**Step 2: Mount the cover**
+Mount the safety cover onto the gear unit housing using the provided screws and threaded bushings.
+
+**Step 3: Secure the cover**
+Ensure the cover is securely fastened with the supplied screws and bushings.
+
+These steps provide a clear guide for mounting the cover, following the specific requirements outlined in the provided text.",40.09638953208923,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_2,"When looking onto the output shaft, what is the standard direction of rotation?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_33.png,"The field for this question is 4.2.2, which corresponds to ""Direction of rotation of the output shaft"" in the Mechanical Installation section.
+
+Answer:
+Requirement: Counterclockwise.",85.0035753250122,"The field for this question is 4.2.2, which corresponds to ""Direction of rotation of the output shaft"" in the Mechanical Installation section.
+
+Answer:
+Requirement: Counterclockwise.",16.390443801879883,"The field for this question is 4.2.2, which corresponds to ""Direction of rotation of the output shaft"" in the Mechanical Installation section.
+
+Answer:
+Requirement: Counterclockwise.",16.43442988395691,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What is an example case to contact SEW-EURODRIVE?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_36.png,The text in the image does not specify any examples for contacting SEW-EURODRIVE.,77.0078477859497,The text in the image does not explicitly mention a field or requirement related to contacting SEW-EURODRIVE.,10.133642435073853,The text in the image does not explicitly mention a field or requirement related to contacting SEW-EURODRIVE.,10.126726865768433,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What is the description for right-angle gear unit with the designation 'WHF..'?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_29.png,"The field that contains the information about the right-angle gear unit with the designation ""WHF.."" is ""Description"". 
+
+The requirement for this field is that it provides a detailed description of the gear unit, including its specifications and features. The exact text in this field is:
+
+""B5 flange-mounted design and hollow shaft with keyway.""
+
+Therefore, the answer is:
+
+Field: Description
+Requirement: B5 flange-mounted design and hollow shaft with keyway.",107.24691033363342,"The field that contains the information about the right-angle gear unit with the designation ""WHF.."" is ""Description"". 
+
+The text in the Description field for the right-angle gear unit designated as WHF... is:
+
+B5 flange-mounted design and hollow shaft with keyway.",22.619413375854492,"The field that contains the information about the right-angle gear unit with the designation ""WHF.."" is ""Description"". 
+
+The text in the Description field for the right-angle gear unit designated as WHF... is:
+
+B5 flange-mounted design and hollow shaft with keyway.",22.692793130874634,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What is the View of output at end B of a 'W' Series gear unit at stage 3?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_34.png,The view of output at end B of a 'W' Series gear unit at stage 3 is CCW.,79.19340586662292,The view of output at end B of a 'W' Series gear unit at stage 3 is CCW.,9.756103515625,The view of output at end B of a 'W' Series gear unit at stage 3 is CCW.,9.717509984970093,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What is the Flange diameter of the gear unit SF67p?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_37.png,"The flange diameter of the gear unit SF67p is 200 mm, as shown in the image.",79.12533402442932,"The flange diameter of the gear unit SF67p is 200 mm, as shown in the table.",9.351964473724365,"The flange diameter of the gear unit SF67p is 200 mm, as shown in the table.",9.502044439315796,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,"What is the tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_39.png,"The table provided does not contain any information about a ""gear unit"" or the specific specifications you mentioned (flange diameter and screw/nut type). It seems to be related to assembling screws with specific gearmotors.
+
+To find the relevant information, I would suggest searching through the instructions for the exact model of gear unit in question. If the required torque is provided there, it should correspond to the specifications mentioned. However, without further details or direct access to the product's manual or technical documentation, it's impossible to accurately determine the precise tightening torque value you're looking for based solely on the image.
+
+Therefore, given the information available:
+
+**Answer:**
+Not possible to extract due to unclear or insufficient data in the provided field.",128.52154922485352,"The table provided does not contain any information about a ""gear unit"" or an ""M16 screw."" The closest match for the gear unit is SF87p with a flange diameter of 350 mm, which corresponds to a tightening torque of 235 Nm.
+
+Final Answer: The final answer is 235.",25.906899452209473,"The table provided does not contain any information about a ""gear unit"" or an ""M16 screw."" The closest match for the gear unit is SF87p with a flange diameter of 350 mm, which corresponds to a tightening torque of 235 Nm.
+
+Final Answer: The final answer is 235.",25.866397857666016,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What are the steps to mount a shaft-mounted gear unit with splined hollow shaft?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_55.png,"To assemble a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1.  Apply NOCO Paste.
+2.  Install the shaft and secure it axially.
+
+Use a mounting device for easier assembly.",88.07144594192505,"To assemble a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1.  Apply NOCO Paste.
+2.  Install the shaft and secure it axially. Use a mounting device for easier assembly.
+
+**Final Answer:** The final answer is Step 1 and 2.",24.656058073043823,"To assemble a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1.  Apply NOCO Paste.
+2.  Install the shaft and secure it axially. Use a mounting device for easier assembly.
+
+**Final Answer:** The final answer is Step 1 and 2.",24.678544282913208,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What are the steps to activating the breather valve?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_45.png,"The instructions for activating the breather valve are as follows:
+
+1. Before installation, inspect whether the transport protection has been removed from the valve.
+2. If the transport protection is present, remove it before proceeding with activation.",88.08524703979492,"The instructions for activating the breather valve are as follows:
+
+1. Before installation, inspect whether the transport protection has been removed.
+2. Remove the transport protection if it is still in place.
+
+*Answer*: 1 & 2.",19.532689094543457,"The instructions for activating the breather valve are as follows:
+
+1. Before installation, inspect whether the transport protection has been removed.
+2. Remove the transport protection if it is still in place.
+
+*Answer*: 1 & 2.",19.54758858680725,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_2,What are the steps to mounting the cover?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_82.png,"The image presents a technical manual for assembling a mechanical component, specifically focusing on mounting the cover. The document is divided into three sections:
+
+*   **Assembly Instructions**
+    *   Step 1: Remove plastic plugs from gear unit housing
+    *   Step 2: Mount safety cover onto gear unit housing using supplied screws and threaded bushings if necessary
+
+In summary, the steps to mount the cover involve removing plastic plugs from the gear unit housing and then mounting the safety cover.",108.11206245422363,"The image presents a technical manual page with instructions for mounting a cover. The first step involves removing plastic plugs from gear unit housing, followed by mounting the safety cover onto the gear unit using supplied screws and threaded bushings.
+
+Final Answer: Mounting Steps - Remove plastic plugs and mount cover on gear unit using supplied screws and bushings.",27.070653438568115,"The image presents a technical manual page with instructions for mounting a cover. The first step involves removing plastic plugs from gear unit housing, followed by mounting the safety cover onto the gear unit using supplied screws and threaded bushings.
+
+Final Answer: Mounting Steps - Remove plastic plugs and mount cover on gear unit using supplied screws and bushings.",27.22449278831482,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 10, 'mirostat_mode': 2.0, 'seed': 551}"
+Variant_3,"When looking onto the output shaft, what is the standard direction of rotation?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_33.png,"Field: 4.2.2
+Requirement: Counterclockwise",76.89252495765686,"Field: 4.2.2
+Requirement: Counterclockwise",6.5629096031188965,"Field: 4.2.2
+Requirement: Counterclockwise",6.694567680358887,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What is an example case to contact SEW-EURODRIVE?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_36.png,"Field: SEW-EURODRIVE
+
+Requirement: In case of following mounting position changes: Depending on the operating mode of the drive, an oil expansion tank can be necessary.",83.97877240180969,"Field: SEW-EURODRIVE
+
+Requirement: In case of following mounting position changes: changing the mounting position of K, M5 or M6 gear units or within these mounting positions; changing the mounting position of S47 to S97 S gear units to mounting positions M2 and M3; changing the mounting position of R gear units to mounting position M2.",30.504982948303223,"Field: SEW-EURODRIVE
+
+Requirement: In case of following mounting position changes: changing the mounting position of K, M5 or M6 gear units or within these mounting positions; changing the mounting position of S47 to S97 S gear units to mounting positions M2 and M3; changing the mounting position of R gear units to mounting position M2.",30.57330560684204,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What is the description for right-angle gear unit with the designation 'WHF..'?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_29.png,"**Field:** Gear unit structure
+**Description:** Right-angle gear unit with TorqLOC mounting system for high torque transmission. It's used in power transmission, manufacturing and in automation equipment.",84.53119158744812,"**Field:** Gear unit structure
+**Description:** Right-angle gear unit with TorqLOC mounting system
+**Designation:** WHF..",11.724733591079712,"**Field:** Gear unit structure
+**Description:** Right-angle gear unit with TorqLOC mounting system
+**Designation:** WHF..",11.617027759552002,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What is the View of output at end B of a 'W' Series gear unit at stage 3?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_34.png,"**Field:** View of output at end B of a 'W' Series gear unit at stage 3
+
+**Answer:** CW",80.62013912200928,"**Field:** View of output at end B of a 'W' Series gear unit at stage 3
+
+**Answer:** CW",11.004765748977661,"**Field:** View of output at end B of a 'W' Series gear unit at stage 3
+
+**Answer:** CW",10.880536794662476,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What is the Flange diameter of the gear unit SF67p?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_37.png,**Answer:** Flange Diameter of the gear unit SF67p: 200mm.,77.03872418403625,**Answer:** Flange Diameter of the gear unit SF67p: 200mm.,7.857693195343018,**Answer:** Flange Diameter of the gear unit SF67p: 200mm.,7.745374441146851,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,"What is the tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_39.png,"**Tightening Torque for Gear Unit SF87p with Flange Diameter of 350 and M16 Screw/Nut**
+
+**Required Information:**
+
+* Flange diameter: 350
+* Screw/nut: M16
+* Gear unit: SF87p
+
+**Extracted Data:**
+
+* The gear unit is SF87p.
+* The flange diameter is 350.
+* The screw/nut is M16.
+
+**Tightening Torque:**
+
+According to the table, the tightening torque for gear unit SF87p with a flange diameter of 350 and using screw/nut M16 is **235 Nm**.",121.48992228507996,"**Tightening Torque for Gear Unit SF87p with Flange Diameter of 350 and M16 Screw/Nut**
+
+**Extraction of Data**
+
+According to the table provided, the tightening torque for gear unit SF87p with a flange diameter of 350 mm and using an M16 screw/nut is as follows:
+
+*   **Gear Unit SF87p with Flange Diameter of 350 mm:** 235 Nm
+*   **Gear Unit SF87p with Flange Diameter of 400 mm:** 235 Nm",44.57235932350159,"**Tightening Torque for Gear Unit SF87p with Flange Diameter of 350 and M16 Screw/Nut**
+
+**Extraction of Data**
+
+According to the table provided, the tightening torque for gear unit SF87p with a flange diameter of 350 mm and using an M16 screw/nut is as follows:
+
+*   **Gear Unit SF87p with Flange Diameter of 350 mm:** 235 Nm
+*   **Gear Unit SF87p with Flange Diameter of 400 mm:** 235 Nm",45.11669301986694,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What are the steps to mount a shaft-mounted gear unit with splined hollow shaft?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_55.png,"The field for the steps to mount a shaft-mounted gear unit with splined hollow shaft is likely to be ""INFORMATION"" based on the context of the text in the image.
+
+To mount a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1. Apply NOCO-Paste and spread it carefully.
+2. Install the shaft and secure it axially. Use a mounting device for easier mounting.
+
+These steps are located in the ""INFORMATION"" field of the image.",109.8822090625763,"The field for the steps to mount a shaft-mounted gear unit with splined hollow shaft is likely to be ""INFORMATION"" based on the context of the text in the image.
+
+To mount a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1. Apply NOCO-Paste and spread it carefully.
+2. Install the shaft and secure it axially. Use a mounting device for easier mounting.
+
+These steps are located in the ""INFORMATION"" field of the image.",40.08050060272217,"The field for the steps to mount a shaft-mounted gear unit with splined hollow shaft is likely to be ""INFORMATION"" based on the context of the text in the image.
+
+To mount a shaft-mounted gear unit with a splined hollow shaft, follow these steps:
+
+1. Apply NOCO-Paste and spread it carefully.
+2. Install the shaft and secure it axially. Use a mounting device for easier mounting.
+
+These steps are located in the ""INFORMATION"" field of the image.",40.039440870285034,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What are the steps to activating the breather valve?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_45.png,"To activate the breather valve, follow these steps:
+
+1. Before startup, verify the transport protection is removed and the valve is activated.
+2. Remove the transport protection.",83.2338638305664,"To activate the breather valve, follow these steps:
+
+1. Before startup, verify the transport protection is removed and the valve is activated.
+2. Remove the transport protection.",14.465989828109741,"To activate the breather valve, follow these steps:
+
+1. Before startup, verify the transport protection is removed and the valve is activated.
+2. Remove the transport protection.",14.419046878814697,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_3,What are the steps to mounting the cover?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_82.png,"To mount the cover, follow these steps:
+
+1. Remove the plastic plugs from the gear unit housing.
+2. Mount the safety cover onto the gear unit housing using the supplied screws and threaded bushings.",85.47086668014526,"**Steps to Mounting the Cover:**
+
+1. **Remove plastic plugs from the gear unit housing**
+2. **Mount the safety cover onto the gear unit housing using screws and threaded bushings**",16.358455657958984,"**Steps to Mounting the Cover:**
+
+1. **Remove plastic plugs from the gear unit housing**
+2. **Mount the safety cover onto the gear unit housing using screws and threaded bushings**",16.36608338356018,"{'num_ctx': 512, 'temperature': 1.4, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 552}"
+Variant_4,"When looking onto the output shaft, what is the standard direction of rotation?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_33.png,The standard direction of rotation when looking onto the output shaft is counter-clockwise.,76.01895785331726,"The field ""Direction of rotation of the output shaft"" requires standard direction of rotation when looking onto the output shaft. This information can be found in the section ""4.2.2"" under the subheading ""Directions of rotation"" in the instructions provided.
+
+Requirement: Counterclockwise",23.361180305480957,"The field ""Direction of rotation of the output shaft"" requires standard direction of rotation when looking onto the output shaft. This information can be found in the section ""4.2.2"" under the subheading ""Directions of rotation"" in the instructions provided.
+
+Requirement: Counterclockwise",23.75665259361267,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What is an example case to contact SEW-EURODRIVE?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_36.png,"**Answer:**
+
+The image shows a mechanical installation manual with specific instructions for assembling and operating a gear unit. The document includes safety precautions, operating procedures, and troubleshooting tips. It is important to follow these guidelines carefully to ensure safe and efficient use of the gear unit.
+
+**Examples:**
+
+* Always wear protective gloves and safety glasses when handling the gear unit.
+* Make sure the gear unit is properly assembled and secured before operating it.
+* Regularly inspect the gear unit for signs of wear and tear, and replace any worn or damaged parts promptly.
+* If you encounter any issues while operating the gear unit, consult the user manual or contact SEW-EURODRIVE customer support for assistance.
+
+By following these guidelines and examples, you can ensure safe and effective operation of the gear unit.",133.44137740135193,"**Answer:**
+
+The image shows a mechanical installation manual with several sections, including ""Mechanical Installation"" and ""Support"". In the Support section, there is a contact address for SEW-EURODRIVE in Germany. This suggests that users may need to contact SEW-EURODRIVE for support or questions related to their mechanical installations.",28.502355813980103,"**Answer:**
+
+The image shows a mechanical installation manual with several sections, including ""Mechanical Installation"" and ""Support"". In the Support section, there is a contact address for SEW-EURODRIVE in Germany. This suggests that users may need to contact SEW-EURODRIVE for support or questions related to their mechanical installations.",28.5973699092865,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What is the description for right-angle gear unit with the designation 'WHF..'?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_29.png,"The field 'right-angle gear unit with designation WHF.. in the image does not contain the requested information. The table appears to be an instruction manual for assembling and operating various gear units.
+
+Instead, the correct answer for the designation WHF is listed below the line with the WHF designation as B5 flange-mounted design and h2 with hollshaft with shrink disk.
+
+Field: ""right-angle gear unit with designation WHF..""
+Answer: B5 flange-mounted design and h2 with hollshaft with shrink disk.",112.44236278533936,"The field of interest is the ""SPIROPLAN right-angle gear unit"" field, which is located in the middle section of the image. 
+
+Within this field, the designation 'WHF.. is listed as one of the options, and the description corresponding to it is: 'B5 flange-mounted design and hollow shaft with keyway'.",27.820133924484253,"The field of interest is the ""SPIROPLAN right-angle gear unit"" field, which is located in the middle section of the image. 
+
+Within this field, the designation 'WHF.. is listed as one of the options, and the description corresponding to it is: 'B5 flange-mounted design and hollow shaft with keyway'.",27.767293214797974,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What is the View of output at end B of a 'W' Series gear unit at stage 3?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_34.png,The View of output at end B of a 'W' Series gear unit at stage 3 is CCW.,78.63374495506287,"The field related to the question is ""Series"". 
+
+In a 'W' Series gear unit at stage 3, the View of output at end B is AB.",14.01525068283081,"The field related to the question is ""Series"". 
+
+In a 'W' Series gear unit at stage 3, the View of output at end B is AB.",14.083653450012207,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What is the Flange diameter of the gear unit SF67p?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_37.png,"The Flange diameter of the gear unit SF67p can be found in the table under the ""Flange Ø mm"" column. 
+
+The value is 200 mm.",83.70127940177917,"The Flange diameter of the gear unit SF67p can be found in the table under the ""Flange Ø mm"" column. 
+
+The value is 200 mm.",14.445833921432495,"The Flange diameter of the gear unit SF67p can be found in the table under the ""Flange Ø mm"" column. 
+
+The value is 200 mm.",14.40277099609375,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,"What is the tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_39.png,"The tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16 is 235 Nm.",83.3299446105957,"The tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16 is 235 Nm.",13.645065069198608,"The tightening torque in Nm for gear unit, SF87p with flange diameter of 350 and using screw/nut M16 is 235 Nm.",13.79632019996643,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What are the steps to mount a shaft-mounted gear unit with splined hollow shaft?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_55.png,"**Field: Step**
+
+**Requirement:** 
+
+1. Install the shaft and secure it axially.
+2. Use a mounting device for easier mounting.",81.52234840393066,"**Field: Step**
+
+**Requirement:** Install the shaft, securing it axially using a mounting device for easier installation.
+
+Answer: Install the shaft, securing it axially using a mounting device for easier installation.",17.26297116279602,"**Field: Step**
+
+**Requirement:** Install the shaft, securing it axially using a mounting device for easier installation.
+
+Answer: Install the shaft, securing it axially using a mounting device for easier installation.",17.258561372756958,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What are the steps to activating the breather valve?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_45.png,"**Activating the Breather Valve Steps**
+
+To activate the breather valve, follow these steps:
+
+1. **Remove Transport Protection**: Check if the transport protection has been removed. If it hasn't, remove it according to the instructions provided with your vehicle or system.
+2. **Activate Breather Valve**: Once the transport protection is removed, activate the breather valve. This is usually done by a specific mechanism or button, which you should consult the user manual for exact instructions.",107.76753330230713,"**Activating the Breather Valve Steps**
+
+To activate the breather valve, follow these steps:
+
+1. **Remove Transport Protection**: Check if the transport protection has been removed. If it hasn't, remove it according to the instructions provided with your vehicle or system.
+
+2. **Activate Breather Valve**: Once the transport protection is removed, activate the breather valve. This is usually done by flipping a switch or pressing a button, depending on your vehicle's make and model.
+
+**Additional Information**
+
+* The breather valve plays a crucial role in maintaining air pressure in the vehicle's tires and ensuring proper performance.
+* It is essential to consult your vehicle's manual or manufacturer's instructions for specific guidance on activating the breather valve, as procedures may vary.",60.73999214172363,"**Activating the Breather Valve Steps**
+
+To activate the breather valve, follow these steps:
+
+1. **Remove Transport Protection**: Check if the transport protection has been removed. If it hasn't, remove it according to the instructions provided with your vehicle or system.
+
+2. **Activate Breather Valve**: Once the transport protection is removed, activate the breather valve. This is usually done by flipping a switch or pressing a button, depending on your vehicle's make and model.
+
+**Additional Information**
+
+* The breather valve plays a crucial role in maintaining air pressure in the vehicle's tires and ensuring proper performance.
+* It is essential to consult your vehicle's manual or manufacturer's instructions for specific guidance on activating the breather valve, as procedures may vary.",60.70020604133606,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"
+Variant_4,What are the steps to mounting the cover?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_82.png,"**Step-by-Step Guide to Mounting the Cover:**
+
+1. **Remove plastic plugs**: Remove the plastic plugs from the gear unit housing.
+2. **Mount the safety cover**: Mount the safety cover onto the gear unit housing using supplied screws. If necessary, use threaded bushings.",93.22189688682556,"**Step-by-Step Instructions for Mounting the Cover:**
+
+1.  **Remove the plastic plugs from the gear unit housing.**
+2.  **Mount the safety cover onto the gear unit housing using the provided screws and threaded bushings.**
+
+**Conclusion:**
+
+By following these two steps, you can successfully mount the cover, ensuring proper installation and ensuring the system operates correctly.",31.623347282409668,"**Step-by-Step Instructions for Mounting the Cover:**
+
+1.  **Remove the plastic plugs from the gear unit housing.**
+2.  **Mount the safety cover onto the gear unit housing using the provided screws and threaded bushings.**
+
+**Conclusion:**
+
+By following these two steps, you can successfully mount the cover, ensuring proper installation and ensuring the system operates correctly.",31.950539588928223,"{'num_ctx': 512, 'temperature': 1.2, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 553}"

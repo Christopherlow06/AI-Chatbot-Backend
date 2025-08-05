@@ -1,0 +1,42 @@
+parameter_variant,question,image_path,answer1,time_taken1,answer2,time_taken2,answer3,time_taken3,parameters_used
+Variant_1,"When looking onto the output shaft, what is the standard direction of rotation?",C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_33.png,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counter clockwise",114.34936046600342,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counter clockwise",7.036983966827393,"**Field:** Direction of rotation of the output shaft
+**Requirement:** Counter clockwise",7.474300384521484,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is an example case to contact SEW-EURODRIVE?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_36.png,"To contact SEW-EURODRIVE in case of the following mounting position changes:
+
+* Mounting position change to M4
+* Changing the mounting position of R gear units to M2
+
+Please reach out to SEW-EURODRIVE to ensure compatibility with your specific setup and gain guidance on the correct mounting procedures.",99.00268983840942,"To contact SEW-EURODRIVE in case of the following mounting position changes:
+
+* Mounting position change to M4
+* Changing the mounting position of R gear units to M2
+
+Please reach out to SEW-EURODRIVE to ensure compatibility with your specific setup and gain guidance on the correct mounting procedures.",127.53585958480835,"To contact SEW-EURODRIVE in case of the following mounting position changes:
+
+* Mounting position change to M4
+* Changing the mounting position of R gear units to M2
+
+Please reach out to SEW-EURODRIVE to ensure compatibility with your specific setup and gain guidance on the correct mounting procedures.",172.97522640228271,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the description for right-angle gear unit with the designation 'WHF..'?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_29.png,"Field: Description
+Requirement: B5 flange-mounted design and hollow shaft with keyway.",78.83458232879639,"Field: Description
+Requirement: B5 flange-mounted design and hollow shaft with keyway.",95.58467030525208,"**Field:** SPIROPLAN Right-angle Gear Unit
+**Description:** B5 flange-mounted design and hollow shaft with keyway",11.277813911437988,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the View of output at end B of a 'W' Series gear unit at stage 3?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_34.png,"Field: View of output at end B of a 'W' Series gear unit at stage 3.
+Requirement: CCW",81.58922982215881,"Field: View of output at end B of a 'W' Series gear unit at stage 3.
+Requirement: CCW",92.79313254356384,"Field: View of output at end B of a 'W' Series gear unit at stage 3.
+Requirement: CCW",10.590800285339355,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
+Variant_1,What is the Flange diameter of the gear unit SF67p?,C:\Users\sgdrig01\Desktop\AI App Internship project\Testing Data\SPRIOPLAN_gearmotors_pics\page_37.png,"To find the flange diameter of the gear unit SF67p, we can look at the table provided in the image. The table lists various gear units with their respective flange diameters.
+
+The gear unit SF67p is listed in the table, and its flange diameter is 200mm.
+
+Therefore, the flange diameter of the gear unit SF67p is **200mm**.",105.08001923561096,"To find the flange diameter of the gear unit SF67p, we can look at the table provided in the image. The table lists various gear units with their respective flange diameters.
+
+The gear unit SF67p is listed in the table, and its flange diameter is 200mm.
+
+Therefore, the flange diameter of the gear unit SF67p is **200mm**.",114.95696496963501,"To find the flange diameter of the gear unit SF67p, we can look at the table provided in the image. The table lists various gear units with their respective flange diameters.
+
+The gear unit SF67p is listed in the table, and its flange diameter is 200mm.
+
+Therefore, the flange diameter of the gear unit SF67p is **200mm**.",32.98569917678833,"{'num_ctx': 512, 'temperature': 1.5, 'top_k': 50, 'repeat_penalty': 1.0, 'mirostat_mode': 2.0, 'mirostat_tau': 3.0, 'seed': 550}"
